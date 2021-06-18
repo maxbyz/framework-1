@@ -10,4 +10,7 @@ glossaryText: "See: %%transaction^transaction%%."
 date: 20210601
 ---
 
-See: %%transaction|transaction%%
+See: [transaction](transaction)
+
+## Tags
+#ctwg #essiflab #essiflab-framework

@@ -11,7 +11,10 @@ glossaryText: "two or more %%digital agents^digital-agent%% that all have the sa
 date: 20210601
 ---
 
-### Purpose
-The ability to distinguish between (non)digital colleagues allows us to reason and communicate about the set of %%digital actors|digital-actor%% that are %%agents|agent%% for a single **principal|principal%%.
+## Purpose
+The ability to distinguish between (non)digital colleagues allows us to reason and communicate about the set of [digital actors](digital-actor) that are [agents](agent) for a single **principal|principal%%.
 
-See also: %%colleague|colleague%%.
+See also: [colleague](colleague).
+
+## Tags
+#ctwg #essiflab #essiflab-framework

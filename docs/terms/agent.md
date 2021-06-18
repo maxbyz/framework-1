@@ -10,19 +10,19 @@ glossaryText: "an %%actor^actor%% that is executing an %%action^action%% on beha
 date: 20210601
 ---
 
-### Short Description
-An **Agent** is an %%actor|actor%% that is executing an action %%action|action%% on behalf of some %%party|party%% (which we call the %%principal|principal%% of that agent). During the time interval in which the action is executed, the actor may execute other actions in other execution-contexts, on behalf of the same or another %%party|party%%. However, for the execution of a single %%action|action%%, the actor is an agent for precisely one principal. It is assumed that the principal provides its agents with the %%policies|policy%% that provide the agents with the rules, working-instructions, preferences and other guidance that they need to comply with when exeucting the action.
+## Definition
+An **Agent** is an [actor](actor) that is executing an action [action](action) on behalf of some [party](party) (which we call the [principal](principal) of that agent). During the time interval in which the action is executed, the actor may execute other actions in other execution-contexts, on behalf of the same or another [party](party). However, for the execution of a single [action](action), the actor is an agent for precisely one principal. It is assumed that the principal provides its agents with the [policies](policy) that provide the agents with the rules, working-instructions, preferences and other guidance that they need to comply with when exeucting the action.
 
-The %%Parties, Actors and Actions pattern|pattern-party-actor-action%% provides an overview of how this concept fits in with related concepts.
+The [Parties, Actors and Actions pattern](pattern-party-actor-action) provides an overview of how this concept fits in with related concepts.
 
-### Purpose
+## Purpose
 The ability to distinguish between (non)agents is relevant in many situations, including:
 - electronic communication: the agent
 
-### Criterion
-**Agent** is a %%role name|role-name%% that generically refers to an %%actor|actor%% that is executing some %%action|action%% on behalf of a %%party|party%%.
+## Criterion
+**Agent** is a [role name](role-name) that generically refers to an [actor](actor) that is executing some [action](action) on behalf of a [party](party).
 
-### Examples
+## Examples
 
 - A person that is 'doing its own things' acts as an Agent for himself.
 - A person that does things for his employer acts as an Agent for that employer.
@@ -31,3 +31,6 @@ The ability to distinguish between (non)agents is relevant in many situations, i
 - A company that makes cars may use robots that weld parts of a car together; these robots acts as Agents for that company.
 - A (running) webserver that accepts product orders for a retailer acts as a (digital) Agent for that retailer.
 - A wallet app that runs on a phone and that is exclusively used by a single person acts as a (digital) Agent for that person.
+
+## Tags
+#ctwg #essiflab #essiflab-framework

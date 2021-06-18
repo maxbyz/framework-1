@@ -11,11 +11,14 @@ glossaryText: "a %%digital agent^digital-agent%% that provides one or more of th
 date: 20210601
 ---
 
-### Short Description
-An **SSI-agent** is a %%digital agent|digital-agent%% that provides one or more of the SSI functionalities (i.e. %%issuer|issuer%%, %%holder|holder%%, %%verifier|verifier%%, %%wallet|wallet%%) to its %%principal|principal%%.
+## Definition
+An **SSI-agent** is a [digital agent](digital-agent) that provides one or more of the SSI functionalities (i.e. [issuer](issuer), [holder](holder), [verifier](verifier), [wallet](wallet)) to its [principal](principal).
 
-### Purpose
+## Purpose
 <!--State the purpose(s) for which it is necessary (or at least: desirable) to define <New Term>.-->
-The ability to distinguish between (non)SSI agents allows us to exclusively talk about agents that provide some or all of the SSI functionalities (i.e. %%issuer|issuer%%, %%holder|holder%%, %%verifier|verifier%%, %%wallet|wallet%%).
+The ability to distinguish between (non)SSI agents allows us to exclusively talk about agents that provide some or all of the SSI functionalities (i.e. [issuer](issuer), [holder](holder), [verifier](verifier), [wallet](wallet)).
 
-See also: %%digital agent|digital-agent%%, and %%agent|agent%%.
+See also: [digital agent](digital-agent), and [agent](agent).
+
+## Tags
+#ctwg #essiflab #essiflab-framework

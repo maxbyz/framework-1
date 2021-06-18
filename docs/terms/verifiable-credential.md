@@ -14,12 +14,15 @@ date: 20210601
 TNO (or others) to provide the content of this file.
 :::
 
-### Related Concepts
-- %%credential|credential%%
-- %%verifiable data|verifiable-data%%
-- %%verified data|verified-data%%
-- %%validated data|validated-data%%
+## Related Concepts
+- [credential](credential)
+- [verifiable data](verifiable-data)
+- [verified data](verified-data)
+- [validated data](validated-data)
 
-### References:
+## References:
 - W3C VC [definition of 'verificable credential'](https://www.w3.org/TR/vc-data-model/#dfn-credential)
 - [W3C Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
+
+## Tags
+#ctwg #essiflab #essiflab-framework

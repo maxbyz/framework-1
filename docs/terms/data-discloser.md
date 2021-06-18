@@ -10,23 +10,23 @@ glossaryText: "a functional component that is capable of disclosing data to (Age
 date: 20210601
 ---
 
-### Short Description
-A **Data Discloser** is an (architectural) function (a functional component in the [eSSIF-Lab functional architecture](../essifLab-fw-func-arch)) that applications (that work for some %%Party|party%%) can call to communicate things such as:
+## Definition
+A **Data Discloser** is an (architectural) function (a functional component in the [eSSIF-Lab functional architecture](../essifLab-fw-func-arch)) that applications (that work for some [Party](party)) can call to communicate things such as:
 - the results of a business transaction (e.g. statements to confirm that a transaction happened, thereby supplying appropriate details)
 - the status of a business transaction (e.g. that an order has been received in good order, that delivery of an order is dealyed or otherwise changed)
-- knowledge (including judgements) that this Party has about %%Entities|entity%% (people, organizations, things, orders, deliveries, etc.)
+- knowledge (including judgements) that this Party has about [Entities](entity) (people, organizations, things, orders, deliveries, etc.)
 
-The Data Discloser uses a %%data-collector-policy|data-collector-policy%% to learn about the applicable (business) rules of its %%principal|principal%%. Such a policy may specify e.g. which types of credentials its principal is willing to (have) issue(d), to whom such credentials may be issued and the kinds of assurances that must be obtained before doing so, etcetera.
+The Data Discloser uses a [data-collector-policy](data-collector-policy) to learn about the applicable (business) rules of its [principal](principal). Such a policy may specify e.g. which types of credentials its principal is willing to (have) issue(d), to whom such credentials may be issued and the kinds of assurances that must be obtained before doing so, etcetera.
 
-The Data Discloser uses the %%eSSIF-Glue|essif-glue%% interface to access the %%Wallet|wallet%%, %%Holder|holder%%, %%Issuer|issuer%% and %%Verifier|verifier%% functionalities.
+The Data Discloser uses the [eSSIF-Glue](essif-glue) interface to access the [Wallet](wallet), [Holder](holder), [Issuer](issuer) and [Verifier](verifier) functionalities.
 
-### Purpose
+## Purpose
 The purpose of the Data Discloser component is to state the (various, sometimes intermediary) results of transactions, by collecting data from the Business Data Stores, and creating a set of (related) statements/claims that can subsequently be issued to other Parties. A special kind of result is the (provisioning of) a credential that its Principal already has created.
 
-### Criteria
-A **Data Discloser** is a component in the [eSSIF-Lab functional architecture](../essifLab-fw-func-arch) that is capable of stating (various, sometimes intermediary) results of transactions, by collecting data from the Business Data Stores, and creating a set of (related) statements/claims that can subsequently be issued to other %%Parties|party%%.
+## Criteria
+A **Data Discloser** is a component in the [eSSIF-Lab functional architecture](../essifLab-fw-func-arch) that is capable of stating (various, sometimes intermediary) results of transactions, by collecting data from the Business Data Stores, and creating a set of (related) statements/claims that can subsequently be issued to other [Parties](party).
 
-### Functionality
+## Functionality
 Typically, and at any point in time, Parties are capable of expressing statements about entities that they know to exist. They could express statements about individuals, about themselves, the state of transactions, and so on. We will use the term '**subject (of a statement of a Party)**' to refer to the entity that this Party knows to exist, and about whom/which the statement has been made.
 
 We will use the term '**subject-id (of a statement of a Party)**' to refer to the representation that this Party has chosen to use for referring to the subject in said statement. A subject-id must have the property of being an identifier within every administrative context that this Party uses. It need not be humanly interpretable (and preferably is not).
@@ -42,3 +42,6 @@ The Data Discloser may either push credential data to the Issuer component, so t
 -----
 
 [^1]: We assume/stipulate that the Party maintains a credential catalogue that contains this, and other information about every kind of credential that it issues, and that such catalogues are available to other Parties that want or need to use such credentials.
+
+## Tags
+#ctwg #essiflab #essiflab-framework

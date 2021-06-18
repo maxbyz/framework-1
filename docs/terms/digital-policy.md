@@ -15,11 +15,13 @@ date: 20210601
 TNO (or others) to provide further content of this file.
 :::
 
-### Short Description
-A **digital policy** is an artifact that is derived from, and represents, a %%policy|policy%% for the purpose of being useable in the digital realm.
+## Definition
+A **digital policy** is an artifact that is derived from, and represents, a [policy](policy) for the purpose of being useable in the digital realm.
 
-### Purpose
+## Purpose
 <!--State the purpose(s) for which it is necessary (or at least: desirable) to define <New Term>.-->
-The ability to distinguish between (non)digital policies allows us to exclusively talk about machine-readable policies, i.e. policies that are to be used by harsoftware/hardware %%actors|actor%%.
+The ability to distinguish between (non)digital policies allows us to exclusively talk about machine-readable policies, i.e. policies that are to be used by harsoftware/hardware [actors](actor).
 
-See also: %%Policy|policy%%.
+See also: [Policy](policy).
+## Tags
+#ctwg #essiflab #essiflab-framework

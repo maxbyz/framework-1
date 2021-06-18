@@ -11,8 +11,11 @@ glossaryText: "an %%actor^actor%% in the digital world (e.g. a running app, or a
 date: 20210601
 ---
 
-### Purpose
+## Purpose
 <!--State the purpose(s) for which it is necessary (or at least: desirable) to define <New Term>.-->
 The ability to distinguish between (non)digital actors allows us to exclusively talk about software/hardware actors and their agency.
 
-See also: %%actor|actor%%.
+See also: [actor](actor).
+
+## Tags
+#ctwg #essiflab #essiflab-framework

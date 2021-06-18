@@ -17,6 +17,8 @@ The idea here is to define 'identifier' as the combination of a
 - symbol (usually a text, but it could be a picture or something else)
 - type/class (that classifies the kind of symbol, not the kind of entity that is identified)
 - scope/context/namespace (within which the symbol can be used to identify an entity)
-- governing Party (i.e. that %%owns|ownership%% the identifier)
+- governing Party (i.e. that [owns](ownership) the identifier)
 
 Earliest ideas for this came out of "[Putting Identifiers in the Context of eHealth](https://link.springer.com/content/pdf/10.1007/978-0-387-79026-8_27.pdf)"
+## Tags
+#ctwg #essiflab #essiflab-framework

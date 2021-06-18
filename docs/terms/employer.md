@@ -14,10 +14,13 @@ date: 20210601
 TNO (or others) to provide the content of this file.
 :::
 
-### Short Description
+## Definition
 
-The %%Parties, Actors and Actions pattern|pattern-party-actor-action%% provides an overview of how this concept fits in with related concepts.
+The [Parties, Actors and Actions pattern](pattern-party-actor-action) provides an overview of how this concept fits in with related concepts.
 
-### Purpose
+## Purpose
 
-### Criteria
+## Criteria
+
+## Tags
+#ctwg #essiflab #essiflab-framework

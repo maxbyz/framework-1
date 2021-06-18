@@ -11,7 +11,9 @@ glossaryText: "an %%agent^agent%% in the digital world (e.g. a running app, or a
 date: 20210601
 ---
 
-### Purpose
+## Purpose
 The ability to distinguish between (non)digital agents allows us to exclusively talk about software/hardware agents.
 
-See also: %%agent|agent%%.
+See also: [agent](agent).
+## Tags
+#ctwg #essiflab #essiflab-framework

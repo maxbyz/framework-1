@@ -10,5 +10,7 @@ glossaryText: "SSI (Self-Sovereign Identity) is a term that has many different i
 date: 20210601
 ---
 
-### Short Description
-SSI is an abbreviation of %%Self-Sovereign Identity|self-sovereign-identity%%
+## Definition
+SSI is an abbreviation of [Self-Sovereign Identity](self-sovereign-identity)
+## Tags
+#ctwg #essiflab #essiflab-framework

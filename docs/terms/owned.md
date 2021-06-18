@@ -10,10 +10,12 @@ glossaryText: "an %%entity^entity%% over which another %%entity^entity%% (its %%
 date: 20210601
 ---
 
-see: %%ownership|ownership%%
+see: [ownership](ownership)
 
 Explain that the fact that the description does not preclude arbitrary Entities to be owners doesn't mean that arbitrary Entities can in fact be owners; that is up to (the Legal System of) the Jurisdiction to provide guidance for.
 
-### Related Concepts
-- %%Ownership relation|ownership%%
-- %%Owner|owner%%
+## Related Concepts
+- [Ownership relation](ownership)
+- [Owner](owner)
+## Tags
+#ctwg #essiflab #essiflab-framework

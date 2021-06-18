@@ -17,3 +17,5 @@ The idea here is to observe that:
 - mandating and delegating are the same except for the transfer of accountability for the transferred actions;
 - the differences with guardianship seems to be not all that big, so we may see a merge with that model;
 - ownership (as defined in the party-actor-action model) can possibly be made part of this, too.
+## Tags
+#ctwg #essiflab #essiflab-framework

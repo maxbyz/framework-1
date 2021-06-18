@@ -19,7 +19,7 @@ This is work in progress
 
 Traditional risk management (RM) frameworks, such as ISO 31000, or COSO, have emerged in a time where centralized organizational leadership and auditing, and cyclic (PDCA) processes for risk management, were prevalent. Most (large) enterprises have adopted (a mix of) them, and many have been certified (e.g. against ISO 9001 or ISO 27001) thereby demonstrating they govern and run the associated (risk)management processes as intended, and are compliant, not just by such standards, but also with applicable regulations.
 
-All frameworks start by requiring that you define the scope (also called 'context') of your management processes. And for good reason: you will be in charge of whatever you will be managing in such processes. What the frameworks could better emphasize is that you quickly get into trouble if you define that scope larger than your own %%scope of control|scope-of-control%%, as it is hard to manage things that you cannot control.
+All frameworks start by requiring that you define the scope (also called 'context') of your management processes. And for good reason: you will be in charge of whatever you will be managing in such processes. What the frameworks could better emphasize is that you quickly get into trouble if you define that scope larger than your own [scope of control](scope-of-control), as it is hard to manage things that you cannot control.
 
 In decentralized contexts we deal with ecosystems of autonomous ((self)sovereign) parties, it is a given that the scope of control of each such party does not extend beyond the party itself - it's the very definition of autonomy/sovereignty. A party could use an ISO standard to manage X (risks, ...), but SHOULD limit its scope to be within its own scope of control.
 The only guidance that such a party gets from ISO standards regarding how to deal with risks that relate to stuff outside the scope, are the 'identification of 'interested parties' (that may work with you, or against you) and 'communication' (about the topics you are managing).
@@ -68,9 +68,11 @@ The purpose of this paper is to help the reader understand what this is all abou
 
 This chapter describes the mental model for decentralized risk management. The model uses [eSSIF-Lab terminology](https://essif-lab.pages.grnet.gr/framework/docs/essifLab-glossary), in particular that which is related to [Parties, Actors and Actions](https://essif-lab.pages.grnet.gr/framework/docs/terms/pattern-party-actor-action).
 
-### Summary
+## Summary
 This mental model captures the foundational concepts and relations that we need for thinking about decentralized risk management. It answers questions such as "What is a risk?", "Who is to address what risks?", "What's in it for me?", "How do the terms 'Governance', 'Risk management' and 'Compliance' relate to one another?", and more.
 
 The model acknowledges the sovereignty (autonomy) that parties have in their
 - governance, i.e. as they decide which objectives to pursue, how to organize their realization, how and when to change or update their objectives, etc.
 - risk management (RM), i.e. identify the assess the
+## Tags
+#ctwg #essiflab #essiflab-framework

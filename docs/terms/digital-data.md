@@ -10,4 +10,7 @@ glossaryText: "a sequence of bits that can be used to communicate meaning/inform
 date: 20210601
 ---
 
-See %%data|data%%.
+See [data](data).
+
+## Tags
+#ctwg #essiflab #essiflab-framework

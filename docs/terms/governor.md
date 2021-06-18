@@ -10,7 +10,9 @@ glossaryText: "the role that a %%party^party%% assumes as it is governing or ove
 date: 20210601
 ---
 
-### Short Description
+## Definition
 A **Governor** is a name used to refer to a Party that is governing or overseeing the control and direction of something.
 
-See %%governance|governance%%
+See [governance](governance)
+## Tags
+#ctwg #essiflab #essiflab-framework

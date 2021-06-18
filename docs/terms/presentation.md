@@ -10,12 +10,14 @@ glossaryText: "a (signed) digital message that a %%holder^holder%% component may
 date: 20210601
 ---
 
-### Short Description
+## Definition
 
-### Purpose
+## Purpose
 
-### Criteria
+## Criteria
 
 
-### References
+## References
 - W3C has a [definition of verifiable presentation](https://www.w3.org/TR/vc-data-model/#dfn-verifiable-presentations).
+## Tags
+#ctwg #essiflab #essiflab-framework

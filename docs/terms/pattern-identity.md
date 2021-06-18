@@ -25,3 +25,6 @@ it follows that
 - Parties must be expected to have a 'self-identity', i.e. a partial identity that they have conceived of about themselves.
 
 Typically, when a party issues a credential about some entity, that credential should contain a subset of the characteristics of the partial identity that the party has conceived of for that entity (that is under the assumption that this party doesn't lie, which is hardly self-evident).
+
+## Tags
+#ctwg #essiflab #essiflab-framework

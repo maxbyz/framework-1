@@ -14,7 +14,9 @@ date: 20210601
 TNO (or others) to provide the content of this file.
 :::
 
-See: %%Communication Channel|communication-channel%%.
+See: [Communication Channel](communication-channel).
 
-### Related Concepts
-- %%Communication Session|communication-session%%
+## Related Concepts
+- [Communication Session](communication-session)
+## Tags
+#ctwg #essiflab #essiflab-framework

@@ -14,7 +14,10 @@ date: 20210601
 TNO (or others) to provide the content of this file.
 :::
 
-### Purpose
-The ability to distinguish between (non) colleagues allows us to reason and communicate about the set of (digital and non-digital) %%actors|actor%% that are %%agents|agent%% for a **principal|principal%%. This is relevant in situations where different %%agents|agent%% excute %%actions|action%% in a single %%business transaction|transaction%% on behalf of the same %%principal|principal%%
+## Purpose
+The ability to distinguish between (non) colleagues allows us to reason and communicate about the set of (digital and non-digital) [actors](actor) that are [agents](agent) for a **principal|principal[. This is relevant in situations where different %%agents](agent) excute [actions](action) in a single [business transaction](transaction) on behalf of the same [principal](principal)
 
-See also: %%digital colleague|digital-colleague%%.
+See also: [digital colleague](digital-colleague).
+
+## Tags
+#ctwg #essiflab #essiflab-framework

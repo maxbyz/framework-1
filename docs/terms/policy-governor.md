@@ -14,22 +14,25 @@ date: 20210601
 TNO (or others) to provide the content of this file.
 :::
 
-### Short Description
+## Definition
 
-The %%Parties, Actors and Actions pattern|pattern-party-actor-action%% provides an overview of how this concept fits in with related concepts.
+The [Parties, Actors and Actions pattern](pattern-party-actor-action) provides an overview of how this concept fits in with related concepts.
 
-### Purpose
+## Purpose
 
-### Criteria
+## Criteria
 
-### Related Concepts
-- %%Governance|governance%%
-- %%Governor|policy-governor%%
-- %%Policy|policy%%
-- %%Digital Policy|digital-policy%%
-- %%Transaction Data Discloser Policy|transaction-data-collector-policy%%
-- %%Transaction Data Collector Policy|transaction-data-collector-policy%%
-- %%Verifier Policy|verifier-policy%%
-- %%Issuer Policy|issuer-policy%%
-- %%Holder Policy|holder-policy%%
-- %%Wallet Policy|wallet-policy%%
+## Related Concepts
+- [Governance](governance)
+- [Governor](policy-governor)
+- [Policy](policy)
+- [Digital Policy](digital-policy)
+- [Transaction Data Discloser Policy](transaction-data-collector-policy)
+- [Transaction Data Collector Policy](transaction-data-collector-policy)
+- [Verifier Policy](verifier-policy)
+- [Issuer Policy](issuer-policy)
+- [Holder Policy](holder-policy)
+- [Wallet Policy](wallet-policy)
+
+## Tags
+#ctwg #essiflab #essiflab-framework

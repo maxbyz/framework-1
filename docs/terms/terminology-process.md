@@ -10,19 +10,19 @@ glossaryText: "a method for recognizing misunderstandings as such, and creating 
 date: 20210601
 ---
 
-### Short Description
-The eSSIF-Lab **terminology process** is a method for recognizing misunderstandings as such, and creating or maintaining %%definitions|definition%% that resolve them. It helps %%parties|party%% that work together to realize certain %%objectives|objective%% (in some %%scope|scope%%) by enabling them to establish a %%terminology|terminology%% that has the property that every party has the same understanding of each of its %%terms|term%%, and that each of these %%terms|term%% is relevant for the realizations of these %%objectives|objective%%.
+## Definition
+The eSSIF-Lab **terminology process** is a method for recognizing misunderstandings as such, and creating or maintaining [definitions](definition) that resolve them. It helps [parties](party) that work together to realize certain [objectives](objective) (in some [scope](scope)) by enabling them to establish a [terminology](terminology) that has the property that every party has the same understanding of each of its [terms](term), and that each of these [terms](term) is relevant for the realizations of these [objectives](objective).
 
-### Prerequisites
-This process focuses on the creation and maintenance of qualitatively good definitions, i.e. %%definitions|definition%% that satisfy the following quality criteria:
-- the %%definition|definition%% is associated with a %%scope|scope%% that is explicitly defined, i.e. any %%party|party%% can unambiguously determine whether or not the definition applies;
+## Prerequisites
+This process focuses on the creation and maintenance of qualitatively good definitions, i.e. [definitions](definition) that satisfy the following quality criteria:
+- the [definition](definition) is associated with a [scope](scope) that is explicitly defined, i.e. any [party](party) can unambiguously determine whether or not the definition applies;
 - the [criteria](https://www.lexico.com/definition/criterion) of the definition are well-formed, meaning that all stakeholders make the same judgements c.q. reach the same conclusions when using these criteria in a given situation that is relevant within the scope.
 - the definition is relevant, which means that stakeholders have identified cases that demonstrate how the use of this definition helps them realize their objectives and/or address issues that prevent them from doing so, or they have agreed that relevance is obvious.
-- there is consensus between the stakeholders regarding the %%term|term%% - the actual word or phrase - that is to be used to refer to (unidentified, or arbitrary, or specific) %%entities|entity%% that satisfy the criterion.
+- there is consensus between the stakeholders regarding the [term](term) - the actual word or phrase - that is to be used to refer to (unidentified, or arbitrary, or specific) [entities](entity) that satisfy the criterion.
 
 This process does not prohibit that definitions may satisfy other criteria, or be associated with other attributes so that they may become better suited to serve other purposes as well. For example, a definition that is to be used in an educational context may be required to come with examples, and/or explanations about why the distinction is made as it is.
 
-### Creating or Changing a Definition
+## Creating or Changing a Definition
 
 The process (step) for creating and/or changing a definition starts with a request to this end.
 
@@ -34,7 +34,7 @@ We do not prescribe any specific way for stakeholders to process the request. We
 
 If the set of stakeholders is too large to be practical for satisfying these criteria, they may appoint one (or a small committee) of them as a 'terminology officer' or 'curator', i.e. the one that is tasked with processing such requests and bringing that processing to a satisfactory end.
 
-### Conflict Mediation and Resolution
+## Conflict Mediation and Resolution
 
 We have experienced many situations in which terms were not used 'in the right way'. This is not problematic per se. Going back to the example of the coffee cup, one of the students may observe that coffee is being served in something that he does not consider to be a cup. If he reacts by saying how surprised he is to find out that cups are more varied than he thought so far, this is an expression of having obtained a new insight, and having learned in an enjoyable fashion. From our perspective, he values the importance of the criterion higher than the importance of being right in the definition that he has (unconsciously) used himself.
 
@@ -50,7 +50,7 @@ Another intervention that you can do when the scope is clear, yet the discussion
 - it dawns on you that it is not one, but other distinctions need be made as well. In the example of the wine students, they may find out that they do not only need a definition for 'glass', but that they need other terms in order to distinguish between the various kinds of glasses they need for drinking different wines.[^IAU] You split up the discussion in as many discussions as you want to make distinctions.
 - no convergence takes place at all. You are probably trying to make distinctions that in the end do not make any sense. Take a break, try to get some fresh/foolish ideas, and try again from there.
 
-### Background
+## Background
 
 A common way to foster mutual understanding is to define terms. The idea is that if we agree to define a term in some way, and use that term accordingly, we avoid misunderstandings. Indeed, many terminologies (lists of definitions) have been established, in many varieties (e.g. glossaries, dictionaries, etc.) in an attempt to achieve this objective. The fact that debates about well-known terms keep popping up over and over again both underlines the importance of this work and suggests that improvements are called for.
 
@@ -72,7 +72,7 @@ We say that a criterion is 'relevant' if it has the property that all stakeholde
 
 Obviously, criteria that are relevant in one context may not not be relevant in another context. For example, in the context of a chic restaurant in which some students want to have a good time, conversing with one another and drinking glasses of wine, the criterion for a glass: 'anything that can contain wine and that a person can drink out of' would be relevant. In the context of that same restaurants in which the same students want to taste wine as part of their training to become a sommelier, this criterion is no longer relevant.
 
-### Notes
+## Notes
 
 [^note]: We have often seen (changes in) definitions of terms being contributed by well-intentioned people, the result of which didn't qualify as a 'good definition', amongst others because they were not stakeholders as we see them.
 
@@ -83,3 +83,5 @@ Obviously, criteria that are relevant in one context may not not be relevant in 
 [^NASA]: NASA has designed so-called 'space cups' for drinking liquids such a s coffee in the International Space Station ISS. See https://www.nasa.gov/mission_pages/station/research/experiments/2029.html.
 
 [^test]: If you test a criterion by simply asking stakeholders to assert that the criteria is relevant, you run the risk that they have their own interpretation of the term 'relevant'. In order to mitigate this risk, you should either define 'relevance (of a criterion that is used in a definition)' as the property of helping stakeholders in the scope of that definition to to realize their objectives and/or address issues that prevent them from doing so, or you should ask the question as we stated here.
+## Tags
+#ctwg #essiflab #essiflab-framework

@@ -10,11 +10,14 @@ glossaryText: "a file whose contents specifies the contents of a %%dictionary^di
 date: 20210601
 ---
 
-### Short Description
-A **dictionary-file** is a file that contains the specification of what does (not) go into a specific %%dictionary|dictionary%%. To faciliate authors, a self-explanatory [template file](/terminology-engine-v1-templates/dictionary-file.md) is available.
+## Definition
+A **dictionary-file** is a file that contains the specification of what does (not) go into a specific [dictionary](dictionary). To faciliate authors, a self-explanatory [template file](/terminology-engine-v1-templates/dictionary-file.md) is available.
 
-### Purpose
-%%Dictionaries|dictionary%% help people to figure out the meaning of terms, specifically if the context of the text they are interpreting isn't very clear, or the meaning of the used terms is left to the imagination of the reader.
+## Purpose
+[Dictionaries](dictionary) help people to figure out the meaning of terms, specifically if the context of the text they are interpreting isn't very clear, or the meaning of the used terms is left to the imagination of the reader.
 
-### Criterion
-a file that defines/specifies a %%dictionary|dictionary%%.
+## Criterion
+a file that defines/specifies a [dictionary](dictionary).
+
+## Tags
+#ctwg #essiflab #essiflab-framework

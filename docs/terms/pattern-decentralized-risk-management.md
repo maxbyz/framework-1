@@ -15,11 +15,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 This is work in progress
 :::
 
-Traditional risk management (RM) frameworks, such as [ISO 31000](https://www.iso.org/obp/ui/#iso:std:iso:31000:ed-2:v1:en), [COSO](https://www.coso.org/Pages/default.aspx), or [NIST 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) have emerged in a time where %%centralized organizational leadership|authority%% and auditing, and cyclic ([PDCA](https://en.wikipedia.org/wiki/PDCA)) processes for risk management, were prevalent. Most (large) enterprises have adopted (a mix of) them, and many have been certified (e.g. against [ISO 9001](https://www.iso.org/iso-9001-quality-management.html) or [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)) thereby demonstrating they govern and run the associated (risk)management processes as intended, and are compliant with such standards and often also with applicable regulations.
+Traditional risk management (RM) frameworks, such as [ISO 31000](https://www.iso.org/obp/ui/#iso:std:iso:31000:ed-2:v1:en), [COSO](https://www.coso.org/Pages/default.aspx), or [NIST 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) have emerged in a time where [centralized organizational leadership](authority) and auditing, and cyclic ([PDCA](https://en.wikipedia.org/wiki/PDCA)) processes for risk management, were prevalent. Most (large) enterprises have adopted (a mix of) them, and many have been certified (e.g. against [ISO 9001](https://www.iso.org/iso-9001-quality-management.html) or [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)) thereby demonstrating they govern and run the associated (risk)management processes as intended, and are compliant with such standards and often also with applicable regulations.
 
-However, these frameworks don't provide practical guidance for all situations. For example, it is well-known that SMEs or other parties that do not have the required (expert) knowledge, time and other resources to setup and run such processes, are pretty much left to their own devices. Also, %%SSI|self-sovereign-identity%% provides contexts for which the traditional RM frameworks do not provide the necessary guidance.
+However, these frameworks don't provide practical guidance for all situations. For example, it is well-known that SMEs or other parties that do not have the required (expert) knowledge, time and other resources to setup and run such processes, are pretty much left to their own devices. Also, [SSI](self-sovereign-identity) provides contexts for which the traditional RM frameworks do not provide the necessary guidance.
 
-This pattern provides a way of thinking about %%risks|risk%% that is suitable for SSI contexts (and as a side-effect, it may be userful for SME's (and the like) as well). It is not intended to replace these other frameworks, but rather as a complementary mechanism. Where the existing frameworks mostly focus on the internal workings of %%parties|party%%, our mechanisms mostly focuses on risks related to interactions between parties.
+This pattern provides a way of thinking about [risks](risk) that is suitable for SSI contexts (and as a side-effect, it may be userful for SME's (and the like) as well). It is not intended to replace these other frameworks, but rather as a complementary mechanism. Where the existing frameworks mostly focus on the internal workings of [parties](party), our mechanisms mostly focuses on risks related to interactions between parties.
 
 ## The Generic Risk Management Process (according to ISO)
 
@@ -32,7 +32,7 @@ The following figure, that also appeared in ISO standards 31000 and 27005, shows
 
 *Figure 1: Activities in a Generic ISO Risk Management Process.*
 
-It shows that the core of an RM process is a cycle of activities that starts with 'context establishment'. The purpose here is that you know about the context you are in, both your external environment (what you cannot control) and your internal environment (what you can control). You must also know the %%objectives|objective%% you want to manage the risks of (for according to ISO, risk only exists in the context of objectives). Then you must know the purpose and scope of the RM process, and establish your risk criteria (i.e. the criteria you use to evaluate the significance of risk and make decisions concerning its acceptability).
+It shows that the core of an RM process is a cycle of activities that starts with 'context establishment'. The purpose here is that you know about the context you are in, both your external environment (what you cannot control) and your internal environment (what you can control). You must also know the [objectives](objective) you want to manage the risks of (for according to ISO, risk only exists in the context of objectives). Then you must know the purpose and scope of the RM process, and establish your risk criteria (i.e. the criteria you use to evaluate the significance of risk and make decisions concerning its acceptability).
 
 The core activity is Risk Assessment, which contains three sub-activities:
 1. Risk Identification. This is where you identify risks and their range of possible effects (consequences) on the objectives;
@@ -56,18 +56,18 @@ The other two activities, 'Risk Communication and Consulation', and 'Monitoring 
 
 ## Networked Risk Management
 
-%%Networked risk management|risk-management%% is a way for managing the %%risks|risk%% of a single %%party|party%%, taking into account that Our definitions of %%risk|risk%%, %%risk owner|risk-owner%% and other risk-related terms are aligned with those of ISO, but (contrary to those of) but there are some subtle differences. much more explicit
-In ISO standards, the person or entity (say: the %%party|party%%) with the accountability and authority to manage a risk is called the 'risk owner'.
+[Networked risk management](risk-management) is a way for managing the [risks](risk) of a single [party](party), taking into account that Our definitions of [risk](risk), [risk owner](risk-owner) and other risk-related terms are aligned with those of ISO, but (contrary to those of) but there are some subtle differences. much more explicit
+In ISO standards, the person or entity (say: the [party](party)) with the accountability and authority to manage a risk is called the 'risk owner'.
 
-%%Networked Risk Management|risk-management%% is a management process that is run by (or on behalf of) a %%party|party%% for the purpose of managing the %%risks|risk%% that this party %%owns|owner%%.
+[Networked Risk Management](risk-management) is a management process that is run by (or on behalf of) a [party](party) for the purpose of managing the [risks](risk) that this party [owns](owner).
 
 
 
 ## Scoping
 
 All (ISO and non-ISO) frameworks start by requiring that you define the scope (also called 'context') of your management processes. And for good reason: you will be in charge of whatever you will be managing in such processes. To this we add the requirement is that
-- a context must have a single owner, i.e. a %%party|party%% that is in charge of what happens in that context, and that consequently should be managing the %%risks|risk%% therein.
-- a context must fall within the %%scope of control|scope-of-control%% of its %%owner|owner%%, as it is hard to manage risks or other things if you cannot control them.
+- a context must have a single owner, i.e. a [party](party) that is in charge of what happens in that context, and that consequently should be managing the [risks](risk) therein.
+- a context must fall within the [scope of control](scope-of-control) of its [owner](owner), as it is hard to manage risks or other things if you cannot control them.
 
 In decentralized contexts we deal with ecosystems of autonomous ((self)sovereign) parties, it is a given that the scope of control of each such party does not extend beyond the party itself - it's the very definition of autonomy/sovereignty. A party could use an ISO standard to manage X (risks, ...), but SHOULD limit its scope to be within its own scope of control.
 The only guidance that such a party gets from ISO standards regarding how to deal with risks that relate to stuff outside the scope, are the 'identification of 'interested parties' (that may work with you, or against you) and 'communication' (about the topics you are managing).
@@ -116,9 +116,11 @@ The purpose of this paper is to help the reader understand what this is all abou
 
 This chapter describes the mental model for decentralized risk management. The model uses [eSSIF-Lab terminology](https://essif-lab.pages.grnet.gr/framework/docs/essifLab-glossary), in particular that which is related to [Parties, Actors and Actions](https://essif-lab.pages.grnet.gr/framework/docs/terms/pattern-party-actor-action).
 
-### Summary
+## Summary
 This mental model captures the foundational concepts and relations that we need for thinking about decentralized risk management. It answers questions such as "What is a risk?", "Who is to address what risks?", "What's in it for me?", "How do the terms 'Governance', 'Risk management' and 'Compliance' relate to one another?", and more.
 
 The model acknowledges the sovereignty (autonomy) that parties have in their
 - governance, i.e. as they decide which objectives to pursue, how to organize their realization, how and when to change or update their objectives, etc.
 - risk management (RM), i.e. identify the assess the
+## Tags
+#ctwg #essiflab #essiflab-framework

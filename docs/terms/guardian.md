@@ -14,10 +14,13 @@ date: 20210601
 TNO to revise all below texts.
 :::
 
-### Short Description
+## Definition
 
-The %%Guardianship pattern|pattern-guardianship%% provides an overview of how this concept fits in with related concepts.
+The [Guardianship pattern](pattern-guardianship) provides an overview of how this concept fits in with related concepts.
 
-### Purpose
+## Purpose
 
-### Criteria
+## Criteria
+
+## Tags
+#ctwg #essiflab #essiflab-framework

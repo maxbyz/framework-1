@@ -14,3 +14,5 @@ This is work in progress
 :::
 
 The idea here is to describe how terms are scoped ('namespaces' is the term used by SW-engineers), how parties govern such scopes/namespaces, and that if you use criteria to define/specify terms, people can test if they have the same understanding of a term by making sure that everyone reaches the same conclusions as they evaluate such criteria in various relevant use-cases.
+## Tags
+#ctwg #essiflab #essiflab-framework

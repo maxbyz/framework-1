@@ -15,4 +15,6 @@ date: 20210601
 TNO (or others) to provide the content of this file.
 :::
 
-See also: %%pattern|pattern%%.
+See also: [pattern](pattern).
+## Tags
+#ctwg #essiflab #essiflab-framework

@@ -17,3 +17,5 @@ TNO (or others) to provide content/revisions.
 :::
 
 We need to explain that trust is subjective: I need not trust what you trust and vice versa. I may need other assurances to lower/raise my trust than you do to raise your trust. Parties are autonomous in assessing their levels of trust.
+## Tags
+#ctwg #essiflab #essiflab-framework

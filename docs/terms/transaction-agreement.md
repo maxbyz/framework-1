@@ -14,6 +14,8 @@ date: 20210601
 TNO (or others) to provide the content of this file.
 :::
 
-### Related Concepts
-- %%Transaction Proposal|transaction-proposal%%
-- %%Transaction Form|transaction-form%%
+## Related Concepts
+- [Transaction Proposal](transaction-proposal)
+- [Transaction Form](transaction-form)
+## Tags
+#ctwg #essiflab #essiflab-framework

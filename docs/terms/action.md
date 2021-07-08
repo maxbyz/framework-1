@@ -26,7 +26,7 @@ An **Action** is something that is done by an actor, can be considered a single 
 - cleaning a car.
 
 ## Related Concepts
-<!--Link to any concepts that are similar but distinct, with a note about the relationship.-->
+
 - OED defines Action as the fact or process of doing something, typically to achieve an aim ([OED](https://www.lexico.com/definition/action)), which is too generic for our purposes.
 - [actor](actor)
 - [agent](agent)

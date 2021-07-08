@@ -12,7 +12,7 @@ date: 20210601
 ---
 
 ## Purpose
-<!--State the purpose(s) for which it is necessary (or at least: desirable) to define <New Term>.-->
+
 The ability to distinguish between (non)digital actors allows us to exclusively talk about software/hardware actors and their agency.
 
 See also: [actor](actor).

@@ -11,7 +11,7 @@ date: 20210601
 ---
 
 ## Definition
-<!--REQUIRED--in 1-3 sentences that describe the concept to a layperson with reasonable accuracy.-->
+
 **Ownership** is a relationship between two [entities](entity) in which one of these [entities](entity) (called the [owner](owner)) is entitled to enjoy, dispose of, and control the other [entity](entity) in an pretty much absolute (sovereign) fashion. Any ownership relationship is grounded in ((the rules of) the [legal system](legal-system) of) a specific [jurisdiction](jurisdiction), that maintains and enforces these rules, and that has means to resolve any disputes arising from that. To do this, both [entities](entity) must be [legal entities](legal-entity) in that [jurisdiction](jurisdiction).
 
 We may use the phrase [natural ownership](ownership) to refer to an ownership relation that exists in the [jurisdiction](jurisdiction) 'Nature' (see the notes of [jurisdiction](jurisdiction)). This enables us to talk about things as 'the (natural) ownership of an [assertion](assertion)'.

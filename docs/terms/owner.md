@@ -11,7 +11,7 @@ date: 20210601
 ---
 
 ## Definition
-<!--REQUIRED--in 1-3 sentences that describe the concept to a layperson with reasonable accuracy.-->
+
 An **Owner** is a role that a [party](party) performs when it is exercizing its legal, rightful or natural title to control some [entity](entity).
 
 We interpret 'legal' and 'rightful' as terms that apply to _any_ [jurisdiction](jurisdiction) (that is: not just [legal/national jurisdictions](legal-jurisdiction), but also those of other [organizations](organization) ([parties](party)).

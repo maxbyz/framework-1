@@ -79,7 +79,7 @@ It also works well for organizations, which are typically companies, enterprises
 
 ---
 ## Footnotes
-<!--This (optional) section contains any footnotes that may have been specified in the text above.-->
+
 
 [^1]: Noting that this also covers slavery merely serves as proof that the model is very generic, not that we support slavery.
 

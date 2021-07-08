@@ -26,7 +26,7 @@ The quality of such texts is the extent in which parties reach the same conclusi
 
 The [terminology pattern](pattern-terminology) provides an overview of how this concept fits in with related concepts.
 The eSSIF-Lab [terminology process](terminology-process) provides guidance for making and maintaining quality definitions.
-
+There is also a [paper](https://www.researchgate.net/publication/352560909_On_Terminology_and_the_Resolution_of_Related_Issues) that provides a practical method for establishing and maintaining terminology that is unambiguous and relevant for a given scope or purpose, and resolving related issues.
 ## Purpose
 Working together is easier when you and your peers share the same ideas. We need a way to test and ensure, that you and your peers _actually_ have the same understanding, for the purpose of making cooperation easier. Doing so is expected to not only reduce the number of terminological discussions, but also improve the efficiency and effectiveness of the remaining discussions.
 
@@ -37,28 +37,21 @@ A **definition** is a text that comprises at a minimum:
 - a [name or phrase](term) that is used within the [scopes](scope) to refer to (unidentified, or arbitrary, or specific) [entities](entity) that satisfy the criterion.
 
 ## Examples
-<!--Provide a few sentences in which you give examples that obviously qualify as instances of `Concept`, and that do NOT obviously qualify. Also, provide examples that are not (so) obvious, but help users to better understand its intension.-->
+
 - The definition of the term [definition](definition) (a) is defined in, and hence valid in the scope `eSSIFLab`, (b) specifies a criterion (see the `Criteria` section above), and (d) has a name (i.e. `definition`) associated with it. Since it satisfies the criteria of `definition`, it can be referred to as 'the definition of `definition`'.
 - The [concepts](concept) defined within the scope eSSIFLab have definitions associated with them, where the criteria, relevance and terms are defined in the [concept-file](concept-file) of that concept.
 
 ## Related Concepts
-<!--Link to any [concepts](concept) that are similar but distinct, with a note about the relationship.-->
+
 * [Term](term) is a label that is used in some context to refer to a [Concept](concept), the set of entities that satisfy the concept's criteria, or an arbitrary element of that set. Different contexts may use different terms to refer to a single concept. In a single context, a single term should be used to refer to an individual concept.
 
 * [Scope](scope) is related in several ways. First, there is (precisely, or at most one) Scope that governs the definition/specification of the Concept. Second, there may be (any number of) Scopes that use the Concept, i.e. within which Terms are defined that refer to the Concept
 
 * [Mental(or Conceptual) Model](pattern) is a collection of concepts, relations between such concepts, and constraint rules that (elements of) such concepts and relations must satisfy. Such [models](https://en.wikipedia.org/wiki/Conceptual_model) are used to help people know, understand, or simulate a subject the model represents.
 
-## Use-cases
-<!--This (optional) section specifies an (optional) introductory paragraph, and a level-3 (i.e. `###`) subsection for every use case it describes. Every such use-case SHOULD
-- describe the situation/context of the use-case;
-- show how to apply ``Concept`` to/in that situation;
-- shows the relevance of having ``Concept`` for the use-case as opposed to not having it.-->
-
 ## Notes
-<!--This (optional) section is the place to put anything for which there is no other good place to put it.-->
 
-Note that this definition satisfies itself. Also note that a definition may be used in multiple scopes, where a scope that wants to use the definition that has been defined in another scope, may replace that name with one of its own choosing. This way the meaning expressed by the definition remains preserved.
+Our definition of 'definition' satisfies itself. Note that a definition may be used in multiple scopes, where a scope that wants to use the definition that has been defined in another scope, may replace that name with one of its own choosing. This way the meaning expressed by the definition remains preserved.
 
 You may want to create definitions that are both acceptable for business people (for whom it usually suffices that they get the gist of it) as for engineers (that need much more precision, up to the point where they can use it for formal reasoning). You face the challenge of conveying your intangible ideas or [concepts](concept) with tangible words or phrases. You can do this by using [intensional definitions](https://en.wikipedia.org/wiki/Extensional_and_intensional_definitions), i.e. by defining criteria that specify *the necessary and sufficient conditions* for when the term you define should (not) be used. When defining such criteria, make sure they have the following properties:
 

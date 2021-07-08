@@ -23,19 +23,6 @@ Understanding words or phrases uttered by others requires that we are able to 't
 ## Criteria
 A Term MUST be a word or phrase that is linked to at least one [context](scope) and refers to precisely one [concept](concept).
 
-## Domains
-<!--In which general knowledge ecosystems or mental model families does this concepty a role?-->
-* eSSIF-Lab
-* ToIP
-* Sovrin
-* DIF
-* NIST
-* ...
-
-## Tags
-<!--Add hash tags here that allow us to group concepts in useful ways.-->
-* Terminology
-
 ## Notes
 There is an important [distinction](https://simple.wikipedia.org/wiki/Concept) between concepts and the (multitude of) terms (names, labels) that we need to be able to talk and reason (argue) about them. Please consider that
 

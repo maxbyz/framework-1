@@ -20,7 +20,9 @@ We are working towards deprecating this convention, as we now have better ways o
 
 ### Pattern diagram notations
 
-%%Pattern|pattern%% diagrams will be visualized in this document using a notation that is very similar to that used by [UML](https://www.uml-diagrams.org/). The following diagram shows the various notations that we will be using that are basically taken from [UML](https://www.uml-diagrams.org/). There are a few exceptions, that are not shown in the figure; they are explained at the end.
+%%Pattern|pattern%% diagrams will be visualized in this document using a notation that is very similar to that used by [UML](https://www.uml-diagrams.org/). Note however that our diagrams, while using such similar notations, are NOT class diagrams, but (representations of) [mental models](https://en.wikipedia.org/wiki/Mental_model) or [conceptual models](https://en.wikipedia.org/wiki/Conceptual_model). So there are some slight differences with how UML uses it.
+
+The following diagram shows the various notations:
 <br/><br/>
 <img
   alt="Notations and conventions"

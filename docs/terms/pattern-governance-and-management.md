@@ -25,7 +25,7 @@ Whether or not an %%objective|objective%% is realized can be seen by the status 
 
 *Figure 1. Parties and their %%objectives|objective%%.*
 
-The core property of this model is that every %%objective|objective%% has precisely one %%owner|owner%%, which is the %%party|party%% that pursues the realization of the assocated results, from one (or both) of the two following perspectives:
+The core property of this model is that every %%objective|objective%% has precisely one %%owner|owner%%, which is the %%party|party%% that pursues the realization of the associated results, from one (or both) of the two following perspectives:
 
 1. the _**production**_, _**supply**_, or _**%%management|management%%**_ perspective. This is the perspective in which the %%owner|owner%% of the %%objective|objective%% will itself be %%managing|management%% the creation (or maintenance) of the results associated with the %%objective|objective%%. This entails the creation of (product) specifictions and %%working instructions|policy%%, organizing that budgets and other production resources become available and are planned, and everything else to ensure the results will be ready to be provided to parties that will actually use them. This may include developing performance indicators, i.e. gauges that measure how well the resources are spent in this production/maintenance work, which may help managers to do their work. We will use the term '%%management|management%%' to refer to these %%activities|action%%, and the term '%%manager|management%%' to refer to the role of a %%party|party%% that performs such activities.
 

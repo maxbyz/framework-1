@@ -81,7 +81,7 @@ In our example of a 'Financial Guardianship', we could have stakeholder roles su
 1. "[Financial Administrator] must ensure that [Party placed under administration] has sufficient funds to pay for housing and food";
 2. "[Party placed under administration] may not enter into financial obligations";
 3. "[Financial Administrator] has a right to look into, and transfer money out of any bank account of [Party placed under administration]";
-4. "[Judge] must establish the a compenstation arrangement for [Financial Administrator]";
+4. "[Judge] must establish a compensation arrangement for [Financial Administrator]";
 5. "Every year, [Financial Administrator] must submit a written report to [Judge] in which (s)he accounts for all actions taken under the guardianship arrangement";
 6. "[Judge] must review the rights and duties of an arrangement each year and update them if such is needed to better realize the objectives for which the arrangement exists".
 
@@ -95,7 +95,7 @@ The example shows that
 
 #### Run-time: Guardianship Arrangements
 
-The run-time aspect of guardianships is all about about the establishing, using and management of actual %%guardianships arrangements|guardianship-arrangement%%. This includes the assignment of %%legal entities|legal-entity%% to the various stakeholder roles, and the management of such assignments. It also includes the management of the actual rights and duties or such legal entities.
+The run-time aspect of guardianships is all about about the establishing, using and management of actual %%guardianship arrangements|guardianship-arrangement%%. This includes the assignment of %%legal entities|legal-entity%% to the various stakeholder roles, and the management of such assignments. It also includes the management of the actual rights and duties or such legal entities.
 
 Typically, the %%jurisdiction|jurisdiction%% that enforces (and governs) a %%guardianship type|guardianship-type%% has rules that specify the conditions that allow a guardianship arrangement of that type to be created, including the %%parties|party%% that must do this. When a guardianship arrangement is established, it starts as a copy of the guardianship type that it instantiates. Then, the dependent-role is assigned to the legal entity that will be fulfilling that role (or more legal entities if that is appropriate). Similarly, most, if not all guardianship-roles are assigned to a legal entity. Note that the the rules that govern the guardianship arrangements may specify that a specific guardian-role is reserved for the party that manages the guardianship arrangement itself.
 
@@ -103,7 +103,7 @@ Next, every duty/right type can now be converted into a duty/right instance, by 
 1. "Alice must ensure that Dick has sufficient funds to pay for housing and food";
 2. "Dick may not enter into financial obligations";
 3. "Alice has a right to look into, and transfer money out of any bank account of Dick";
-4. "Joe must establish the a compenstation arrangement for Alice";
+4. "Joe must establish a compensation arrangement for Alice";
 5. "Every year, Alice must submit a written report to Joe in which (s)he accounts for all actions taken under the guardianship arrangement;
 6. "Joe must review the rights and duties of an arrangement each year and update them if such is needed to better realize the objectives for which the arrangement exists".
 
